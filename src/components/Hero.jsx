@@ -35,7 +35,7 @@ export const Hero = () => {
           <img src={eclipse1} alt="eclipse" className='w-[260px] absolute -top-[45%] left-0' />
         </div>
         <div className='w-full md:w-1/2 flex justify-end items-center'>
-          <img src={heroimg} alt="HandRobotImage" className='w-[300px]' />
+          <img src={heroimg} alt="HandRobotImage" className='w-[400px]' />
         </div>
       </div>
     </div>
