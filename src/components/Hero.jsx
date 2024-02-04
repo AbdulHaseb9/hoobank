@@ -8,7 +8,7 @@ export const Hero = () => {
     <div className='pt-5 md:pt-14'>
       <div className='w-full md:flex md:items-center'>
         <div className='pl-8 sm:pl-12 w-full md:w-1/2 relative'>
-          <div>
+          <div className='z-30'>
             <div className='flex items-center'>
               <div>
                 <h2 className='text-white text-[30px] xs:text-[40px] font-semibold'>The Next <br /><span className='text-[#33BBCF]'>Generation</span></h2>
